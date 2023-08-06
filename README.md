@@ -1,4 +1,4 @@
-Revel-authz [![Build Status](https://travis-ci.org/casbin/revel-authz.svg?branch=master)](https://travis-ci.org/casbin/revel-authz) [![Coverage Status](https://coveralls.io/repos/github/casbin/revel-authz/badge.svg?branch=master)](https://coveralls.io/github/casbin/revel-authz?branch=master) [![GoDoc](https://godoc.org/github.com/casbin/revel-authz?status.svg)](https://godoc.org/github.com/casbin/revel-authz)
+Revel-authz [![Coverage Status](https://coveralls.io/repos/github/casbin/revel-authz/badge.svg?branch=master)](https://coveralls.io/github/casbin/revel-authz?branch=master) [![GoDoc](https://godoc.org/github.com/casbin/revel-authz?status.svg)](https://godoc.org/github.com/casbin/revel-authz)
 ======
 
 Revel-authz is an authorization middleware for [Revel](https://github.com/revel/revel), it's based on [https://github.com/casbin/casbin](https://github.com/casbin/casbin).
